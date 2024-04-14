@@ -5,7 +5,7 @@
 Dino Run é um jogo inspirado no clássico Chrome Dino, com um dinossauro/dragão que corre e se abaixa para desviar de obstáculos como árvores e pássaros. O objetivo do jogo é alcançar a maior distância possível sem perder vidas.
 
 ## Recursos do Jogo:
-Todos os png's disponíveis na pasta GameAssets 
+Todos os png's disponíveis na pasta GameAssets.
 *  5 Atores:
     * Dinossauro/Dragão
     * Árvores (4 tipos)
@@ -40,7 +40,7 @@ Todos os png's disponíveis na pasta GameAssets
 * O jogador/dino possui 3 vidas.
 * Ao coletar uma estrela, o jogador ativa (apertando a tecla Z) um powerup que permite cuspir bolas de fogo para destruir os obstáculos do tipo árvore.
 * O powerup tem duração ilimitada, porém só pode ser usado uma vez por estrela coletada, isto é sem acúmulo.
-* A cada certa distância percorrida, a dificuldade do jogo tende a aumentar e os obstáculos se tornam mais frequentes.
+* A cada certa distância percorrida, a dificuldade do jogo tende a aumentar, ao passo que os obstáculos se tornam mais frequentes.
 * O jogo termina quando o jogador perde todas as vidas.
 * Ao terminar o jogo, o jogador é direcionado para o cenário de Game Over, onde é exibida a sua pontuação final.
 * Basta clicar novamente em Restart para reiniciar tudo e continuar jogando.
@@ -48,7 +48,7 @@ Todos os png's disponíveis na pasta GameAssets
 ## Requisitos do Trabalho:
 
 * O projeto deve ser implementado no Scratch.
-* O projeto deve seguir as diretrizes e requisitos descritos acima.
+* O projeto deve seguir as diretrizes e requisitos presentes no [Repositório do Professor](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/blob/main/SCRATCH/TRABALHO/Trabalho.pdf).
 * O projeto deve estar bem documentado com comentários e instruções.
 
 ## Instruções de Uso:
